@@ -45,3 +45,15 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.classpath
+.mvn/wrapper/maven-wrapper.jar
+*.prefs
+.mvn/wrapper/maven-wrapper.properties
+*.project
+mvnw
+*.cmd
+target/classes/application.properties
+*.MF
+target/classes/META-INF/maven/tech.chauncy/spring-boot-demo/pom.xml
+*.class
+target/classes/META-INF/maven/tech.chauncy/spring-boot-demo/pom.properties
